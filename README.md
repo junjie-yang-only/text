@@ -89,7 +89,7 @@ webstrom不支持自动实时修复功能
 
 ```
 eslint
--c /Users/wangjinyang/selfConfig/eslint/eslintrc.js --fix $FilePathRelativeToProjectRoot$
+-c /Users/selfConfig/eslint/eslintrc.js --fix $FilePathRelativeToProjectRoot$
 $ProjectFileDir$
 ```
 配置完成，在文件点击右击，就会出现external tool => ESLint Fix
