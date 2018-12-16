@@ -40,7 +40,7 @@ npm install -g eslint-config-react-app babel-eslint@^7.2.3 eslint@^4.1.1 eslint-
 
 在商店库安装eslint插件
 
-![图片描述](https://upload-images.jianshu.io/upload_images/7101063-ce012887215e3df1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片描述](https://upload-images.jianshu.io/upload_images/7101063-93e4fbfb0e55fd4a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 在用户配置中，配置eslint
 
 ![图片描述](https://upload-images.jianshu.io/upload_images/7101063-f0fe5acf85f30c2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
